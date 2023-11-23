@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480503218034",
+    "project_id": "multiscore-15d03",
+    "storage_bucket": "multiscore-15d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480503218034:android:a0bc74f4779182de0867eb",
+        "android_client_info": {
+          "package_name": "com.alexpournaras.multiscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF2F5xJ4qaNfo3P99fFIJwrGrfHiSxjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

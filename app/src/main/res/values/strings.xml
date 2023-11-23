@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MultiScore</string>
+    <string name="title_activity_main">MultiScore</string>
+    <string name="package_name">com.alexpournaras.multiscore</string>
+    <string name="custom_url_scheme">com.alexpournaras.multiscore</string>
+</resources>
